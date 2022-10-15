@@ -1,4 +1,4 @@
-Notebook on Colab including Videos:\
+Colab Notebook:\
 https://colab.research.google.com/drive/189jmnjkYd4cylPt_F9sYUn6EfBRV8UD0?usp=sharing
 
 Videos:
