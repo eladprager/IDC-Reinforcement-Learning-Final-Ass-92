@@ -1,7 +1,7 @@
 Colab Notebook:\
 https://colab.research.google.com/drive/189jmnjkYd4cylPt_F9sYUn6EfBRV8UD0?usp=sharing
 
-Videos:\
+Videos:
 
 https://user-images.githubusercontent.com/49105118/196001489-8f9547c0-32a3-42d2-bbf4-9ef11fe7453d.mp4
 
