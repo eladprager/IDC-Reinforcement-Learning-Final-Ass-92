@@ -7,6 +7,6 @@ https://user-images.githubusercontent.com/49105118/196001489-8f9547c0-32a3-42d2-
 
 https://user-images.githubusercontent.com/49105118/196001491-29df9529-d6bb-4137-a9e5-3e4cf1d9a40b.mp4
 
-https://user-images.githubusercontent.com/49105118/196001492-9972b6da-613b-4066-8124-9ad0126759d0.mp4
+![merge_AdobeExpress](https://user-images.githubusercontent.com/49105118/196129165-134fc228-8036-4656-b681-ca20ddb4b41f.gif)
 
 https://user-images.githubusercontent.com/49105118/196001493-e7fc13b2-92b4-4d1b-8ae3-73ad12af37f4.mp4
